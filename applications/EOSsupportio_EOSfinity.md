@@ -14,7 +14,7 @@
 >
 > All lines starting with a `>` (such as this one and the ones above and below) should be removed.
 
-- **Project Name:** EOS Tools
+- **Project Name:** Project EOSfinity
 - **Team Name:** EOS Support LLC and RoRo Technology PLLC
 - **EOS Payment Address:** rorodev.gm
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 2
@@ -26,9 +26,9 @@
 
 ## Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** myemail@mycompany.com
-- **Website:** https://yourwebsite.com
+- **Contact Name:** Randall Roland
+- **Contact Email:** ranroland@eossupport.io
+- **Website:** Eossupport.io
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -40,10 +40,10 @@
 
 > Please provide the following:
 
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- **Name:** Project EOSfinity
+- **Brief Description:** Create multiple tools for the EOS community. EOSfinity is a web application that will have multiple plugin tools for the users on EOS Network. Each tool will be created with basic functions, multilingual support and friendly user interface and experience. The team will deliver as per milestones.
+- **Relationship to EOSIO:** EOSfinity runs on the EOS mainnet.
+- **Reason for Interest:** We are interested in helping the EOS Community with developing tools that are needed on EOS. 
 
 ### Project Details
 
@@ -74,25 +74,24 @@
 ### Team members
 
 - **Team Leader:** Name of team leader
-- Name of team member 1
-- Name of team member 2
-- Name of team member 3, etc.
+- EOS support Team
+- RORO Technology Team
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
-- **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (e.g. 123 Main Street, London LK1 234, UK)
+- **Registered Legal Entity:** EOS Support LLC
+- **Registered Address:** 21693 FM 1314 suite 500, Porter Tx
 
 ### Team Experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
+> EOS Support and RoRo Technology have forked the EdenOS, adjusted the code and released EOS Respect (EOSrespect.io).
 
 > If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 
 ### Team Org Repos
 
-- https://github.com/<your_organization>
-- https://github.com/<your_organization>/<project_1>
-- https://github.com/<your_organization>/<project_2>
+- https://github.com/Eossupport
+- https://github.com/RoRo-TechnologyPLLC
+- https://github.com/RoRo-TechnologyPLLC/EOS_Respect
 
 > Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
