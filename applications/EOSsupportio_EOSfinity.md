@@ -51,7 +51,9 @@ EOSfinity is a web application that will have multiple plugin tools for the user
 
 * EOS Any Asset Over the counter trading tool: 
   
-  A decentralized over-the-counter trading tool, which uses only technology to create trust and protects the property safety of both parties to the transaction. Users can use this tool to trade any chain assets, including but not limited to tokens, NFTs, accounts, etc. Users can use tokens to buy other people's NFTs. Users can complete transactions with anyone without knowing their identity. The platform will make the entire transaction clear and safe. In simple terms, the tool uses multi-signature technology technical framework.
+  A decentralized over-the-counter trading tool, which uses only technology to create trust and protects the property safety of both parties to the transaction. Users can use this tool to trade any chain assets, including but not limited to tokens, NFTs, accounts, etc. Users can use tokens to buy other people's NFTs. 
+  
+  Users can complete transactions with anyone without knowing their identity. The platform will make the entire transaction clear and safe. In simple terms, the tool uses multi-signature technology technical framework.
   
 * EOS Bandwidth Tool: 
   
