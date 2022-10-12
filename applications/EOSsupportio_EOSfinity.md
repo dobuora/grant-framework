@@ -88,7 +88,7 @@ The project fits under Development. It integrates into AntelopeIO.
 
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
-dapp users, and developers
+dapp users and developers.
 
 - What need(s) does your project meet?
 - Are there any other projects similar to yours in the EOSIO ecosystem?
