@@ -53,6 +53,9 @@ EOSfinity is a web application that will have multiple plugin tools for the user
 * EOS Bandwidth Tool: Build a tool users can get bandwidth even when the bandwidth is not enough to push transactions. The tool will make it convenient for users to purchase CPU, and NET. More importantly, the tool will support powerup, rex and mortgaging EOS to obtain resources.
 * EOS Resource plan purchase tool: Build an EOS Resource plan purchase tool that will automatically power-up user’s accounts based on user’s settings. Users can choose a Power plan and tool will automatically recharge bandwidth for the user based on the chosen plan.
 
+Technology stack: JS, React, C++
+
+
 > We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 - Mock-ups/designs of any UI components
@@ -81,7 +84,7 @@ The project fits under Development. It integrates into AntelopeIO.
 
 ### Team members
 
-- **Team Leader:** Name of team leader
+- **Team Leader:** Randall Roland
 - EOS support Team
 - RORO Technology Team
 
