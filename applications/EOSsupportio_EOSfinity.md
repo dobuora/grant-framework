@@ -103,12 +103,12 @@ EOSfinity is a web application that will have multiple plugin tools for the user
 
 ### Team Member Repos
 
-- https://github.com/<team_member_1>
+- N/A
 - https://github.com/<team_member_2>
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
+- N/A
 - https://www.linkedin.com/<person_2>
 
 ## Development Status
@@ -144,9 +144,9 @@ For each milestone,
 > Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
 > You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
 > of all of your Milestones.
-- **Total Estimated Duration:** 2 months 
-- **Full-Time Equivalent (FTE):** 2 FTE
-- **Total Costs:** 12,000 USD
+- **Total Estimated Duration:** 4 months
+- **Full-Time Equivalent (FTE):** 1 FTE
+- **Total Costs:** 30,000 USD
 
 > Please note that this application is automatically parsed.<br/>
 > For the above fields, please only put the answer on that line.  If you want to add more information, please put it below these instructions.<br/>
