@@ -106,7 +106,7 @@ The project fits under Development. It integrates into AntelopeIO.
 
 ### Team Experience
 
-> EOS Support and RoRo Technology have forked the EdenOS, adjusted the code and released EOS Respect (EOSrespect.io).
+EOS Support and RoRo Technology have forked the EdenOS, adjusted the code and released EOS Respect (EOSrespect.io).
 
 > If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 
