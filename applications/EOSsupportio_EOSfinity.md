@@ -41,11 +41,17 @@
 > Please provide the following:
 
 - **Name:** Project EOSfinity
-- **Brief Description:** Create multiple tools for the EOS community. EOSfinity is a web application that will have multiple plugin tools for the users on EOS Network. Each tool will be created with basic functions, multilingual support and friendly user interface and experience. The team will deliver as per milestones.
+- **Brief Description:** Create multiple tools for the EOS community.
 - **Relationship to EOSIO:** EOSfinity runs on the EOS mainnet.
 - **Reason for Interest:** We are interested in helping the EOS Community with developing tools that are needed on EOS. 
 
 ### Project Details
+
+EOSfinity is a web application that will have multiple plugin tools for the users on EOS Network. Each tool will be created with basic functions, multilingual support and friendly user interface and experience. The team will deliver as per milestones.
+
+* EOS Any Asset Over the counter trading tool: A decentralized over-the-counter trading tool, which uses only technology to create trust and protects the property safety of both parties to the transaction. Users can use this tool to trade any chain assets, including but not limited to tokens, NFTs, accounts, etc. Users can use tokens to buy other people's NFTs. Users can complete transactions with anyone without knowing their identity. The platform will make the entire transaction clear and safe. In simple terms, the tool uses multi-signature technology technical framework.
+* EOS Bandwidth Tool: Build a tool users can get bandwidth even when the bandwidth is not enough to push transactions. The tool will make it convenient for users to purchase CPU, and NET. More importantly, the tool will support powerup, rex and mortgaging EOS to obtain resources.
+* EOS Resource plan purchase tool: Build an EOS Resource plan purchase tool that will automatically power-up user’s accounts based on user’s settings. Users can choose a Power plan and tool will automatically recharge bandwidth for the user based on the chosen plan.
 
 > We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
