@@ -43,7 +43,7 @@
 - **Name:** Project EOSfinity
 - **Brief Description:** Create multiple tools for the EOS community.
 - **Relationship to EOSIO:** EOSfinity runs on the EOS mainnet.
-- **Reason for Interest:** We are interested in helping the EOS Community with developing tools that are needed on EOS. 
+- **Reason for Interest:** We are interested in helping the EOS Community with developing tools that are needed on EOS by the community to interact with the blockchain.
 
 ### Project Details
 
@@ -69,6 +69,8 @@ EOSfinity is a web application that will have multiple plugin tools for the user
 > Help us locate your project in the EOSIO landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
+The project fits under Development. It integrates into AntelopeIO.
+
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 - What need(s) does your project meet?
 - Are there any other projects similar to yours in the EOSIO ecosystem?
