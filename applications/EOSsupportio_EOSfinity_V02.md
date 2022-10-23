@@ -260,6 +260,14 @@ Note: Some of the milestones can possibly overlap and be done in parallel.
 - how you intend to use, enhance, promote and support your project in the short term, and
 - the team's long-term plans and intentions in relation to it.
 
+EOS Support and Roro Technology intends to continue research and development to improve the EOS tools. In addition, we intend to:
+- support the EOS community using our tools
+- host and deploy the tools for other parties
+- Maintain future iterated code for organizations
+- continue to iterate EOSfinity software for organizations
+- Develop more needed and useful tools for the EOS Community
+- Hire another full time blockchain developer to help us with building features
+
 
 ## Additional Information
 
@@ -270,3 +278,13 @@ Note: Some of the milestones can possibly overlap and be done in parallel.
 - Work you have already done.
 - If there are any other teams who have already contributed (financially) to the project.
 - Previous grants you may have applied for.
+
+EOS Network Foundation Website and Directly from the ENF
+
+- We have been working and developing on EOS and EOS Respect for monts and we are close to deploy our new Support platform.
+- We ran the edenEOS election on July 9 and we ran 3 EOS Respect election since August 2022.
+- We have helped since the start of EOS Support with the Eden and EOS user onbaroding.
+- We have helped with Communications in the Leap Upgrade.
+- Creating how-to guides and articles for pulic goods on EOS.
+- Started publishing EOS news.
+- Educating users on social media, telegram, facebook, reddit about EOS.
