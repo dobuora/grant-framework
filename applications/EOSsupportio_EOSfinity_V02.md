@@ -91,8 +91,18 @@ The project fits under Development. It integrates into AntelopeIO.
 dapp users and developers.
 
 - What need(s) does your project meet?
+
+The tools will help the community trade assets over the counter and will help to make EOS more user-friendly.
+
 - Are there any other projects similar to yours in the EOSIO ecosystem?
+
+Trading portals and EOS Power Up Service.
+
   - If so, how is your project different?
+  
+ EOS Any Asset Over the counter trading tool: It will be possible to trade any assets.
+ EOS Bandwidth Tool & EOS Resource plan purchase tool: The tool will be more simple and user friendly.
+  
   - If not, are there similar projects in related ecosystems?
 
 ## Team
@@ -112,6 +122,8 @@ dapp users and developers.
 EOS Support and RoRo Technology have forked the EdenOS, adjusted the code and released EOS Respect (EOSrespect.io).
 
 > If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+
+https://github.com/eosnetworkfoundation/grant-framework/pull/27
 
 ### Team Org Repos
 
@@ -187,15 +199,15 @@ Note: Some of the milestones can possibly overlap and be done in parallel.
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
+| 0a. | License | MIT |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** with howto articles how the that explains how the trading tool works. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
+| 0d. | Docker | N/A |
+| 0e. | Article | We will provide and write how-to guides in 9 languages for users and the EOS community. |
 | 1. | Application interface to EOSIO | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
+| 2. | Front-End / User Interface | We will create a UI that connects to the EOS Support website |  
 | 3. | Caching layer | We will create a caching layer ... |  
-| 4. | API interface to our app | We will create an API that ... |  
+| 4. | API interface to our app | We will create an API so others can use the tools as plugins |  
 
 
 
@@ -207,14 +219,15 @@ Note: Some of the milestones can possibly overlap and be done in parallel.
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
+| 0a. | License | MIT |
+| 0b. | We will provide both **inline documentation** of the code and a basic **tutorial** with howto articles how the that explains how the bandwith tool works. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
+| 0d. | Docker | N/A |
+| 0e. | Article | We will provide and write how-to guides in 9 languages for users and the EOS community. |
 | 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Added UI functionality | We will add UI functionality to... |  
-| 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
+| 2. | Added UI functionality | We will create a UI that connects to the EOS Support website |  
+| 3. | Caching layer | We will create a caching layer ... |  
+| 4. | API interface to our app | We will create an API so others can use the tools as plugins |  
 
 
 
@@ -227,14 +240,15 @@ Note: Some of the milestones can possibly overlap and be done in parallel.
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our EOSIO nodes and send test transactions, which will show how the new functionality works. |
+| 0a. | License | MIT |
+| 0b. | We will provide both **inline documentation** of the code and a basic **tutorial** with howto articles how the that explains how the purchase tool works. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
+| 0d. | Docker | N/A |
+| 0e. | Article |  We will provide and write how-to guides in 9 languages for users and the EOS community. |
 | 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Added UI functionality | We will add UI functionality to... |  
-| 3. | Add 3rd Party API integration | We will add 3rd party integration to ... |  
+| 2. | Added UI functionality | We will create a UI that connects to the EOS Support website |  
+| 3. | Caching layer | We will create a caching layer ... |  
+| 4. | API interface to our app | We will create an API so others can use the tools as plugins |  
 
 ... Add more milestones as above as needed ...
 
