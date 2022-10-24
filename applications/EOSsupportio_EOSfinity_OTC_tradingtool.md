@@ -55,15 +55,7 @@ EOSfinity is a web application that will have multiple plugin tools for the user
   
   Users can complete transactions with anyone without knowing their identity. The platform will make the entire transaction clear and safe. In simple terms, the tool uses multi-signature technology technical framework.
   
-* EOS Bandwidth Tool: 
   
-  Build a tool users can get bandwidth even when the bandwidth is not enough to push transactions. The tool will make it convenient for users to purchase CPU, and NET. More importantly, the tool will support powerup, rex and mortgaging EOS to obtain resources.
-  
-* EOS Resource plan purchase tool: 
-  
-  Build an EOS Resource plan purchase tool that will automatically power-up user’s accounts based on user’s settings. Users can choose a Power plan and tool will automatically recharge bandwidth for the user based on the chosen plan.
-
-
 Technology stack: JS, React, C++
 
 
@@ -96,12 +88,11 @@ The tools will help the community trade assets over the counter and will help to
 
 - Are there any other projects similar to yours in the EOSIO ecosystem?
 
-Trading portals and EOS Power Up Service.
+Trading portals.
 
   - If so, how is your project different?
   
  EOS Any Asset Over the counter trading tool: It will be possible to trade any assets.
- EOS Bandwidth Tool & EOS Resource plan purchase tool: The tool will be more simple and user friendly.
   
   - If not, are there similar projects in related ecosystems?
 
@@ -176,11 +167,9 @@ For each milestone,
 > Note: the numbers in the three lines below are examples.  Please replace with your own calculations!  Then delete this instruction line.
 > You **must** keep these three Milestone Summary lines below for your grant to be approved.  The Total Cost should add up to the costs
 > of all of your Milestones.
-- **Total Estimated Duration:** 4 months
+- **Total Estimated Duration:** 35 days
 - **Full-Time Equivalent (FTE):** 1 FTE
-- **Total Costs:** 30,000 USD
-
-Note: Some of the milestones can possibly overlap and be done in parallel.
+- **Total Costs:** 10,000 USD
 
 > Please note that this application is automatically parsed.<br/>
 > For the above fields, please only put the answer on that line.  If you want to add more information, please put it below these instructions.<br/>
@@ -208,49 +197,6 @@ Note: Some of the milestones can possibly overlap and be done in parallel.
 | 2. | Front-End / User Interface | We will create a UI that connects to the EOS Support website |  
 | 3. | Caching layer | We will create a caching layer ... |  
 | 4. | API interface to our app | We will create an API so others can use the tools as plugins |  
-
-
-
-### Milestone 2 — EOS Bandwidth Tool
-
-- **Estimated Duration:** 35 days
-- **FTE:**  1
-- **Costs:** 10,000 USD
-
-| ID | Deliverable | Specification |
-| ----- | ----------- | ------------- |
-| 0a. | License | MIT |
-| 0b. | We will provide both **inline documentation** of the code and a basic **tutorial** with howto articles how the that explains how the bandwith tool works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | N/A |
-| 0e. | Article | We will provide and write how-to guides in 9 languages for users and the EOS community. |
-| 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Added UI functionality | We will create a UI that connects to the EOS Support website |  
-| 3. | Caching layer | We will create a caching layer ... |  
-| 4. | API interface to our app | We will create an API so others can use the tools as plugins |  
-
-
-
-
-### Milestone 3 — EOS Resource plan purchase tool
-
-- **Estimated Duration:** 43 days
-- **FTE:**  1
-- **Costs:** 10,000 USD
-
-| ID | Deliverable | Specification |
-| ----- | ----------- | ------------- |
-| 0a. | License | MIT |
-| 0b. | We will provide both **inline documentation** of the code and a basic **tutorial** with howto articles how the that explains how the purchase tool works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | N/A |
-| 0e. | Article |  We will provide and write how-to guides in 9 languages for users and the EOS community. |
-| 1. | Performance Enhancements | We will create performance enhancements to ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Added UI functionality | We will create a UI that connects to the EOS Support website |  
-| 3. | Caching layer | We will create a caching layer ... |  
-| 4. | API interface to our app | We will create an API so others can use the tools as plugins |  
-
-... Add more milestones as above as needed ...
 
 
 ## Future Plans
