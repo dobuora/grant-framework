@@ -92,7 +92,7 @@ Trading portals.
 
   - If so, how is your project different?
   
- EOS Any Asset Over the counter trading tool: It will be possible to trade any assets.
+It will be possible to trade any assets.
   
   - If not, are there similar projects in related ecosystems?
 
